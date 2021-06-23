@@ -25,6 +25,6 @@ https://docs.npmjs.com/about-npm
 ## How to specify versions of a package?
 * https://docs.npmjs.com/cli/v7/configuring-npm/package-json#dependencies
 
-### Task (bu taskin deadline-i birinci gun olacaq, isteye baghli olaraq indiden oxuyub arashdirib yaza bilen olsa ela)
+### Task (bu taskın deadline-ı ikinci günə olacaq. indidən göndərdim, scss-ı özü araşdırıb yaza bilən olsa əla olmasa da canınız sağ olsun sabah keçəcəyik sassın bu tapşırıqda lazım olan tərəflərini)
 * Try to create grid classes (col-1, col-2, col-md-1, col-lg-3, col-xl-5) with the help of @function, @each, @if, @else or this kind of sass features
 You can take Bootstrap's source code as reference if you want
